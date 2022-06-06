@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc su betty
+su betty
