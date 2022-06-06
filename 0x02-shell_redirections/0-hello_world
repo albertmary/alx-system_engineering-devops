@@ -1,1 +1,2 @@
-read me 
+#!/bin/bash
+echo "Hello, World"
